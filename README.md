@@ -4,10 +4,12 @@ Links Repaired: SEO link (added id)
 
 Comments added
 
+Added Alt Tags to all images with basic descriptors 
+
+
+To Do:
 Semantic HTML
 
 Order of CSS & HTML adjusted
-
-Added Alt Tags to all images with basic descriptors 
 
 Heading attributes put in a logical order
