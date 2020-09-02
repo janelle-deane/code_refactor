@@ -8,7 +8,7 @@ Added Alt Tags to all images with basic descriptors
 
 
 To Do:
-Semantic HTML: header, nav, 
+Semantic HTML: header, nav, aside
 
 Order of CSS & HTML adjusted
 
