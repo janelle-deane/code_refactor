@@ -87,7 +87,7 @@ aside {
 }
 
 /* consdense this section into one when I use aside tag it loses spacing between p & next h3 */
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -119,13 +119,13 @@ aside h3 {
 } */
 
 /* condense--when i don that it messes with the SEO section */
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -134,8 +134,8 @@ aside h3 {
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
-}
+    max-width: 150px; */
+/* } */
 
 /* condense */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
