@@ -6,9 +6,13 @@ Comments added
 
 Added Alt Tags to all images with basic descriptors 
 
+Semantic HTML: header, nav, aside, footer
+
+Clean up CSS redunant tags
+
 
 To Do:
-Semantic HTML: header, nav, aside
+
 
 Order of CSS & HTML adjusted
 
