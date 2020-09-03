@@ -86,7 +86,7 @@ aside {
     background-color: #2589bd;
 }
 
-/* consdense this section into one when I use aside tag it loses spacing between p & next h3 */
+/* consdense this section into one class */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -118,7 +118,7 @@ aside h3 {
     text-align: center;
 } */
 
-/* condense--when i don that it messes with the SEO section */
+/* condense and use one class */
 .benefit img {
     display: block;
     margin: 10px auto;
